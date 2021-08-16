@@ -12,7 +12,7 @@ class ContactPage extends Component {
         <div className="contact-page__phone">
           <FaPhone />
           <p>(042) 37231500</p>
-    <p>(042) 37231500</p>
+
         </div>
         <div className="contact-page__address">
           <FaMapMarker />
