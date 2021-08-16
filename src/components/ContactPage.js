@@ -7,7 +7,7 @@ class ContactPage extends Component {
         <h1>Contact Us</h1>
         <div className="contact-page__email">
           <FaEnvelope />
-          <p>johnwilliamslaw@gmail.com</p>
+          <p>asimdeo@asimassociate.com</p>
         </div>
         <div className="contact-page__phone">
           <FaPhone />
