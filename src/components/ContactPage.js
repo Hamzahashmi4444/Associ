@@ -18,7 +18,6 @@ class ContactPage extends Component {
           <FaMapMarker />
           <p>
              Chamber no 119 exective block DBA,Sialkot
-            Lahore.
           </p>
         </div>
       </div>
