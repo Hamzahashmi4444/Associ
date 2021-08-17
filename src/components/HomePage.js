@@ -18,7 +18,7 @@ class HomePage extends Component {
             </div>
           </div>
           <div className="content-3">
-            <h1>Ch Asim Iqbal</h1>
+            <h1>Muhammad Asim Deo</h1>
             <h2>ATTORNEY AT LAW</h2>
             <h4>
               Skilled Corporate Lawyer has broad experience in transactional
